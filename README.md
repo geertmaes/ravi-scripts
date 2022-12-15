@@ -9,7 +9,7 @@ This script parses ap provided active configuration json file
 - `pip install xlwt`
 
 ### Usage
-- copy an active configuration json file to the script directory and name it input.json<br> 
-- run the getRightAlgorithm script
+- copy an `active configuration json file` to the script directory and name it `input.json`
+- run the `getRightAlgorithm.py` script
 - the script will print a table to the terminal 
 - the script will generate an xls file.
