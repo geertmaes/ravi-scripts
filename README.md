@@ -5,6 +5,8 @@ This script parses ap provided active configuration json file
 - `pip install tabulate`
 - `pip install xlwt`
 
-### results
-The script will generate an excel file with two columns `DEFINITION` and `RIGTH ALGORITHM`
-<br>
+### Usage
+- copy an active configuration json file to the script directory and name it input.json<br> 
+- run the getRightAlgorithm script
+- the script will print a table to the terminal 
+- the script will generate an xls file.

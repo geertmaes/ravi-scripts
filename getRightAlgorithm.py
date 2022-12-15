@@ -14,7 +14,7 @@ sheet1.write(0, 1, col_names[1])
 
 resultList = []
 
-with open('input-json.json', 'r') as active_configuration_file:
+with open('input.json', 'r') as active_configuration_file:
     active_configuration = json.load(active_configuration_file)
     configurations = active_configuration['grossConfigurations']
     for configuration in configurations:
