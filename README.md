@@ -4,6 +4,7 @@ This script parses ap provided active configuration json file
 ### please make sure you DO NOT commit any json files to this repository (information sharing policy)
 
 ### Requirements
+- install `python` (version 3+)
 - `pip install tabulate`
 - `pip install xlwt`
 
